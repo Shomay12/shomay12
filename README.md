@@ -38,81 +38,73 @@ I enjoy understanding how systems work, solving problems through code, and build
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤖 ReplyNest</h3>
+<h3>🎓 UniAssist</h3>
 
-Instagram automation SaaS.
+RAG-Powered Academic Assistant
 
-Building software around automated interactions and messaging workflows.
+A Retrieval-Augmented Generation system that grounds language model outputs in coursework, syllabi, and technical textbooks. Features structure-aware chunking, dense sentence-transformer embeddings, FAISS similarity search, and low-latency Groq inference.
 
 <br/>
 
-SAAS AUTOMATION AI APPLICATIONS
+PYTHON RAG FAISS LANGCHAIN GROQ STREAMLIT
+
+<br/>
+
+↗ Architecture & Specs · Live System ↗ · Source ↗
+
+</td>
+<td width="50%" valign="top">
+<h3>💰 Finance Expenditure Intelligence</h3>
+
+Data Science & Machine Learning Pipeline
+
+An end-to-end financial intelligence pipeline combining Isolation Forest anomaly detection, NLP-based transaction classification, recurring-payment periodicity detection, and statistical time-series forecasting for cash-flow analysis.
+
+<br/>
+
+PYTHON SCIKIT-LEARN PANDAS NUMPY TIME SERIES PLOTLY
+
+<br/>
+
+↗ Architecture & Specs · Source ↗
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ Industrial Machine Monitoring</h3>
+
+Real-Time Predictive Maintenance
+
+A predictive maintenance system that processes vibration, acoustic, and thermal sensor telemetry. Uses a Scikit-learn RandomForest classifier to estimate equipment failure risk and a min-heap priority queue to prioritize maintenance scheduling.
+
+<br/>
+
+PYTHON RANDOM FOREST FASTAPI MONGODB SENSOR DATA DSA
+
+<br/>
+
+↗ Architecture & Specs · Source ↗
 
 </td>
 <td width="50%" valign="top">
 <h3>🍵 HotTea</h3>
 
-Cross-platform application built with Flutter.
+Privacy-First AI Browser & LLM Workspace
 
-Browser functionality, local persistence, and AI workspace integration.
-
-<br/>
-
-FLUTTER DART SQLITE
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 Adaptive AI Systems</h3>
-
-Work on AI execution planning, including context selection, model routing, tool planning, verification, and cost-aware execution.
+A cross-platform AI workspace combining local inference through Ollama and llama.cpp with cloud LLMs. Includes automated DOM context extraction and a client-side AES-GCM-encrypted .tea vault for local data protection.
 
 <br/>
 
-LLMS AGENTS PYTHON
-
-</td>
-<td width="50%" valign="top">
-<h3>💰 AI Personal Finance</h3>
-
-A personal finance intelligence pipeline involving spending classification, financial analysis, and expenditure forecasting.
+FLUTTER DART LOCAL LLM OLLAMA AES-GCM PRIVACY
 
 <br/>
 
-DATA SCIENCE ML FORECASTING
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🌐 Personal Website</h3>
-
-My online presence and portfolio for showcasing projects and development work.
-
-<br/>
-
-↗ View Repository
-
-HTML CSS JAVASCRIPT
-
-</td>
-<td width="50%" valign="top">
-<h3>⚙️ QuAxiomOS</h3>
-
-An AI-focused project exploring intelligent software systems.
-
-AI SYSTEMS SOFTWARE
+↗ Architecture & Specs · Live Demo ↗ · Source ↗
 
 </td>
 </tr>
 </table>
-<div align="right">
-
-Explore repositories ↗
-
-</div>
-
 ⸻
 
 ◈ AI Engineering
