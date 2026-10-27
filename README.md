@@ -99,7 +99,7 @@ Flutter Dart Ollama Local LLMs AES-GCM Privacy
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-View%20Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 </div>
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
@@ -123,7 +123,7 @@ Model Evaluation	Benchmarking, classification metrics, error analysis
 Deep Learning	PyTorch, neural networks, model training
 Computer Vision	Vision-language models, image understanding
 
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
@@ -137,7 +137,7 @@ Working with data to develop models, evaluate performance, and extract useful in
 * Visualization: Exploring datasets and communicating analytical results.
 * Model Evaluation: Accuracy, precision, recall, F1 score, and error analysis.
 
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
@@ -154,7 +154,7 @@ Backend & APIs
 Databases & Infrastructure
 
 </div>
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
@@ -175,7 +175,7 @@ Databases & Infrastructure
 <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-Explore%20Contributions-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/>
 </a>
 </div>
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
