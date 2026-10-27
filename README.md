@@ -34,7 +34,7 @@ I work across the AI development stack—from data processing and model evaluati
 
 I enjoy understanding how systems work, solving problems through code, and building applications that connect intelligent models with practical use cases.
 
-<div align="right"><a href="#top">↑ Back to top</a></div>
+
 
 ⸻
 
