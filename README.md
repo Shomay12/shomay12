@@ -6,14 +6,16 @@ Building intelligent systems. Turning data into insights. Engineering software t
 
 <br/>
 <a href="https://shomaysinghparihar.online">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Shomay12">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/shomay-singh-parihar-b09b2931a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://x.com/KJshomayyy">
+  <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Follow on X"/>
 </a>
+
+
 
 AI ENGINEERING   MACHINE LEARNING   DATA SCIENCE   SOFTWARE DEVELOPMENT
 
