@@ -16,25 +16,15 @@ Building intelligent systems. Turning data into insights. Engineering software t
 <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
 </a>
 
-AI ENGINEERING   ◆  
-DATA SCIENCE   ◆  
-PROJECTS   ◆  
-TECH STACK   ◆  
-GITHUB ACTIVITY
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Shomay Singh Parihar's GitHub profile" src="dark_mode.svg" width="100%">
+</picture>
 
 </div>
-
-⸻
-
-◈ About Me
-
-I’m a Computer Applications student at Amity University, India, focused on AI engineering, machine learning, data science, and software development.
-
-I work across the AI development stack—from data processing and model evaluation to LLM-powered applications, backend APIs, and automation.
-
-I enjoy understanding how systems work, solving problems through code, and building applications that connect intelligent models with practical use cases.
-
-
 
 ⸻
 
@@ -51,7 +41,7 @@ A Retrieval-Augmented Generation system that grounds language model outputs in c
 
 <br/>
 
-Python RAG FAISS LangChain Groq Streamlit
+`Python` `RAG` `FAISS` `LangChain` `Groq` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +53,7 @@ An end-to-end financial intelligence pipeline combining Isolation Forest anomaly
 
 <br/>
 
-Python Scikit-learn Pandas NumPy Time Series Plotly
+`Python` `Scikit-learn` `Pandas` `NumPy` `Time Series` `Plotly`
 
 </td>
 </tr>
@@ -77,7 +67,7 @@ A machine-monitoring system that processes vibration, acoustic, and thermal sens
 
 <br/>
 
-Python RandomForest FastAPI MongoDB Sensor Data DSA
+`Python` `RandomForest` `FastAPI` `MongoDB` `Sensor Data` `DSA`
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +79,7 @@ A cross-platform AI workspace combining local inference through Ollama and llama
 
 <br/>
 
-Flutter Dart Ollama Local LLMs AES-GCM Privacy
+`Flutter` `Dart` `Ollama` `Local LLMs` `AES-GCM` `Privacy`
 
 </td>
 </tr>
@@ -100,10 +90,9 @@ Flutter Dart Ollama Local LLMs AES-GCM Privacy
 </a>
 </div>
 
-
 ⸻
 
-◈ AI Engineering
+◈ AI Engineering & Data Science
 
 <a href="https://github.com/Shomay12?tab=repositories">
 <img src="https://img.shields.io/badge/LLM%20ENGINEERING-Transformers%20%7C%20PEFT-6D28D9?style=flat-square" alt="LLM engineering projects"/>
@@ -115,77 +104,24 @@ Flutter Dart Ollama Local LLMs AES-GCM Privacy
 <img src="https://img.shields.io/badge/AI%20AGENTS-Tools%20%7C%20Orchestration-5B21B6?style=flat-square" alt="AI agents"/>
 </a>
 
-Area	Technologies & Methods
-LLM Engineering	Transformers, prompt engineering, fine-tuning, PEFT
-RAG & Retrieval	Embeddings, semantic search, retrieval pipelines
-AI Agents	Tool calling, workflow orchestration, execution planning
-Model Evaluation	Benchmarking, classification metrics, error analysis
-Deep Learning	PyTorch, neural networks, model training
-Computer Vision	Vision-language models, image understanding
-
-
-
-⸻
-
-◈ Data Science & Machine Learning
-
-Working with data to develop models, evaluate performance, and extract useful information.
-
-* Data Processing: NumPy, pandas, data cleaning, and feature engineering.
-* Statistical Learning: Classification, regression, model selection, and evaluation.
-* Forecasting: Time-dependent spending analysis and predictive modeling.
-* Visualization: Exploring datasets and communicating analytical results.
-* Model Evaluation: Accuracy, precision, recall, F1 score, and error analysis.
-
-
-
-⸻
-
-◈ Technical Stack
-
-<div align="center">
-
-AI & Machine Learning
-
-Languages
-
-Backend & APIs
-
-Databases & Infrastructure
-
-</div>
-
-
-⸻
-
-◈ GitHub Activity
-
-<div align="center">
-<a href="https://github.com/Shomay12">
-<img src="https://github-readme-stats.vercel.app/api?username=Shomay12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="165" alt="Click to view GitHub profile and statistics"/>
-</a>
-<a href="https://github.com/Shomay12?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomay12&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Click to explore repositories by language"/>
-</a>
-<br/>
-<a href="https://github.com/Shomay12">
-<img src="https://streak-stats.demolab.com?user=Shomay12&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="80%" alt="Click to view GitHub activity"/>
-</a>
-<a href="https://github.com/Shomay12?tab=activity">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-Explore%20Contributions-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/>
-</a>
-</div>
-
+| Area | Technologies & Methods |
+| :--- | :--- |
+| **LLM Engineering** | Transformers, prompt engineering, fine-tuning, PEFT |
+| **RAG & Retrieval** | Embeddings, semantic search, retrieval pipelines |
+| **AI Agents** | Tool calling, workflow orchestration, execution planning |
+| **Data & ML** | NumPy, pandas, statistical learning, time-series forecasting |
+| **Deep Learning** | PyTorch, neural networks, vision-language models |
+| **Evaluation** | Benchmarking, classification metrics (F1, precision, recall), error analysis |
 
 ⸻
 
 ◈ Beyond Code
 
-First principles. Understanding a problem before choosing a solution.
+**First principles.** Understanding a problem before choosing a solution.
 
-Philosophy. Exploring knowledge, reasoning, reality, and the questions behind our understanding of the world.
+**Philosophy.** Exploring knowledge, reasoning, reality, and the questions behind our understanding of the world.
 
-Building. Learning by implementing ideas, examining failures, and improving systems.
+**Building.** Learning by implementing ideas, examining failures, and improving systems.
 
 ⸻
 
@@ -195,14 +131,14 @@ Building. Learning by implementing ideas, examining failures, and improving syst
 </a>
 <br/>
 
-Portfolio ·
-GitHub ·
-X
+<a href="https://shomaysinghparihar.online">Portfolio</a> ·
+<a href="https://github.com/Shomay12">GitHub</a> ·
+<a href="https://x.com/KJshomayyy">X</a>
 
 Shomay Singh Parihar · India
 
 <br/>
 
-↑ Back to top
+<a href="#top">↑ Back to top</a>
 
 </div>
